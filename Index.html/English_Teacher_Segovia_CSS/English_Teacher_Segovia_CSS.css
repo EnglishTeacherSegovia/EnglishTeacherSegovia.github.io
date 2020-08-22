@@ -72,10 +72,11 @@ body img {
     border-radius: 1%;
 }
 
-span {
-    position: absolute;
-    left: 100px;
-    top: 100px;
+#imgbottom {
+    border: 5px solid rgb(0, 0, 0);
+    border-radius: 1%;
+    height: 100%;
+    width: 100%
 }
 
 footer {
