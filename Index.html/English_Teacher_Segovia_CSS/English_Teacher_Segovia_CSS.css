@@ -20,9 +20,9 @@ h1 {
     color: #000000;
 }
 
-#nav_tab {
+nav {
     background-color: rgba(225, 225, 225, 0.5);
-    height: 60px;
+    width: 100%;
 }
 
 nav a {
