@@ -1,5 +1,5 @@
 ### Hi there 👋
-google-site-verification=i4dKoah9pD_DFoEULBYmZ3dUnE7Tf1p8Pv8xrz8BBtA
+
 <!--
 **EnglishTeacherSegovia/EnglishTeacherSegovia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
